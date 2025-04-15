@@ -25,6 +25,7 @@ void ARX::set_noise(float noise)
     this->noise = noise;
 }
 //XD
+//XPP
 
 void ARX::set_delay(size_t delay)
 {
